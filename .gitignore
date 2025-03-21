@@ -1,26 +1,60 @@
 ### Go template
+
 # Binaries for programs and plugins
+
 *.exe
+
 *.exe~
+
 *.dll
+
 *.so
+
 *.dylib
 
+
+
 # Test binary, built with `go test -c`
+
 *.test
 
+
+
 # Output of the go coverage tool, specifically when used with LiteIDE
+
 *.out
 
+
+
 # Dependency directories (remove the comment below to include it)
+
 # vendor/
+
+
 
 .DS_Store
 
+
+
 js/dist
+
 js/node_modules
 
+
+
 js/local.log
+
 js/playwright-report
+
 js/test-results
+
 vendor
+
+config.bat
+
+node_modules
+.env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
